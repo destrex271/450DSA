@@ -6,7 +6,6 @@ public class Common{
 
     static BufferedReader bfr;
     static HashMap<String,Integer> map = new HashMap<String, Integer>();
-    static int banval = -13131313;
 
     static void feedArray(int[] arr, int n)throws IOException{
         for(int i = 0; i < n; i++){
