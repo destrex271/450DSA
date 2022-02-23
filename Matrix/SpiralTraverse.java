@@ -73,7 +73,7 @@ public class SpiralTraverse {
             };
             elemCovered++;
         }
-        System.out.println("Elem cov : "+elemCovered);
+        System.out.println("Elem cov : " + elemCovered);
     }
 
 }
